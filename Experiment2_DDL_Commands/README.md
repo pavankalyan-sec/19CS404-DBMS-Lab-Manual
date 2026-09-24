@@ -12,7 +12,7 @@ Used to create a new relation (table).
 ```sql
 CREATE TABLE (
   field_1 data_type(size),
-  field_2 data_type(size),
+  field_2 data_type(size), 
   ...
 );
 ```
